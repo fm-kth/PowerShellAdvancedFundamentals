@@ -18,7 +18,7 @@ After this lab you should have a file named `MyFunctions.ps1` in your GitHub rep
 In the file there should be:
 
 - An Enum called `ColorEnum` 
-- A class called `Participant` making use of the `ColorEnum`
+- A class called `User` making use of the `ColorEnum`
 
 Both of these should be used in the `Add-CourseUser` function
 
